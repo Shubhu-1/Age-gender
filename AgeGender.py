@@ -93,4 +93,4 @@ while cv.waitKey(1) < 0:
 print("hacktober")
 
 print("HacktoberFest 2020")
-print("updating")
+print("ACMDITU")
